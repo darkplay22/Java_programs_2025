@@ -1,0 +1,4 @@
+My goal is to have it where once the user types their text
+all they have to do is hit Enter twice for everything 
+they've typed to be displayed back at them
+Also I need to store the string in the variable userString in the main
